@@ -1,6 +1,8 @@
 #include<iostream>
+using namespace std
 
 int main()
 {
-	return 0;
+	int a=0,b=0;
+	cout<<"hello world"<<endl;
 }
